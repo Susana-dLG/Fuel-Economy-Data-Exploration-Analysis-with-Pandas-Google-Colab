@@ -5,7 +5,7 @@ This project explores fuel economy data of various car models using **Pandas** i
 
 ## 📘 Project Overview
 
-This notebook-based project introduces you to working with structured datasets using `pandas`. The dataset `mpg.csv` contains 234 records of vehicle fuel economy, including make, model, year, engine size, and city/highway mileage.It guides learners through reading data, selecting columns, computing new variables, and filtering with boolean logic.
+This notebook-based project introduces you to working with structured datasets using `pandas`.It guides learners through reading data, selecting columns, computing new variables, and filtering with boolean logic.
 The dataset includes **234 car models** with various specifications such as engine displacement, fuel type, drive, and city/highway mileage. This exercise demonstrates foundational data manipulation skills with a focus on fuel economy, subcompact identification, and transmission types.
 
 ---
