@@ -177,4 +177,5 @@ This hands-on exercise introduced multiple core capabilities of the Pandas libra
 These foundational techniques are essential for any data analysis task using Python.
 
 ---
-
+Created by Susana-dLG
+June 2025
