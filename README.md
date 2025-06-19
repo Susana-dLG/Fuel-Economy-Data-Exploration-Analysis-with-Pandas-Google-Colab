@@ -50,7 +50,8 @@ Each row represents a vehicle with its specifications and fuel economy stats.
 
 ```python
 ```
-![image](https://github.com/user-attachments/assets/696be008-f7ce-4067-af64-d3f3770db095).
+<img src="https://github.com/user-attachments/assets/696be008-f7ce-4067-af64-d3f3770db095" width="600" />
+
 
 import pandas as pd
 mpg = pd.read_csv("mpg.csv")
