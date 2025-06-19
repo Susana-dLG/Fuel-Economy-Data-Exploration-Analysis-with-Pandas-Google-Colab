@@ -110,16 +110,6 @@ mpg.cyl.value_counts()
 
 ---
 
-## 🧠 Conclusion
-
-This exercise demonstrated how Pandas makes it simple to:
-
-* Import real-world data
-* Transform and analyze DataFrames
-* Use Boolean logic to filter and count
-* Create new features like average mileage
-
-
 
 ## 🧪 Extended Task on mpg
 
@@ -171,12 +161,16 @@ above_median_cars
 
 This hands-on exercise introduced multiple core capabilities of the Pandas library such as:
 
+* Import real-world data
 * Column selection & aggregation
 * Creating calculated fields
-* Boolean logic for filtering
+* Boolean logic for filtering and count
 * Counting and grouping operations
+* Transform and analyze DataFrames
+* Create new features like average mileage
 
 These foundational techniques are essential for any data analysis task using Python.
+
 
 ---
 Created by Susana-dLG
