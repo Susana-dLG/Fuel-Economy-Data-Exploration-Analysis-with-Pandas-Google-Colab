@@ -1,4 +1,4 @@
-## 🚗 Fuel Economy Data Exploration and Analysis with Pandas and Google Colab
+# 🚗 Fuel Economy Data Exploration and Analysis with Pandas and Google Colab
 
 This project explores fuel economy data of various car models using Pandas in Python and executed via Google Colab. It focuses on DataFrame creation, transformation, filtering, and performing insightful statistical operations on real-world data.
 
